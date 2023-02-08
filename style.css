@@ -2,7 +2,7 @@ body {
   text-align: center;
   width: 100%;
   margin: 0;
-  font-family: 'Cantarell';
+  font-family: 'Cantarell', sans-serif;
   background-color: #262626;
   box-sizing: border-box;
   position: absolute;
